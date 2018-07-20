@@ -1,10 +1,9 @@
 import numpy as np
 import cv2
 
-# multiple cascades: https://github.com/Itseez/opencv/tree/master/data/haarcascades
 
 face_cascade = cv2.CascadeClassifier(r'C:\Users\user\Desktop\LOGO\haarcascade_frontalface_default.xml')
-#https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
+
 eye_cascade = cv2.CascadeClassifier(r'C:\Users\user\Desktop\LOGO\haarcascade_eye.xml')
 
 
