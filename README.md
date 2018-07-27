@@ -7,4 +7,4 @@ For doing face & eye detection we use Python libraries:
 2)	Numpy
 
 Output must be like this:
-![picture1](https://user-images.githubusercontent.com/25435330/42988012-b9148aaa-8c18-11e8-9db2-911589a4293e.png)
+
